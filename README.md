@@ -2,7 +2,7 @@
 
 **# Ajit Jha  
 
-📍 New Delhi, India | 📧 ajitjha3095@outlook.com | 🔗 [LinkedIn](https://linkedin.com/in/ajit-jha-68242880)  discord(ajitjha3095)
+📍 New Delhi, India | 📧 ajitjha3095@outlook.com | 🔗 [LinkedIn](https://linkedin.com/in/ajit-jha-68242880) | discord(ajitjha3095)
 
 ## About Me  
 Experienced **Data Research Analyst** specializing in **data mining, validation, visualization, and analytics**. Skilled in **Power BI, Databricks, SQL, JIRA, and Confluence** with a keen eye for structured data transformation.  
