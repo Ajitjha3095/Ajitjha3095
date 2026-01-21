@@ -14,7 +14,7 @@ Experienced **Data Research Analyst** specializing in **data mining, validation,
 
 ## Projects  
 📌 **AI Metadata Validation** – Improving AI accuracy  
-📌 **Government of Canada Hierarchy** – Structuring governmental data  
+📌 **Portfolio Website [https://ajitjha.netlify.app/]** – Built an interactive portfolio website using HTML, CSS, and JavaScript, enhanced with AI tools for coding, debugging, and research.  
 📌 **CNRS Research Output Visibility** – Enhancing scientific hierarchy  
 
 ## Contact  
