@@ -98,27 +98,27 @@ Senior Data Research Analyst with **8+ years** of experience transforming raw, u
 > *⭐ = Personal/Passion Project showcasing AI & Financial domain expertise*
 
 ### ⭐ [The Aksharan – AI-Assisted Financial & Geopolitical Blog](https://theaksharan.blogspot.com/)
-> **Founder & Editor** — A digital publishing platform that bridges the gap between complex financial markets and general readers using cutting‑edge AI.
-- **AI-Powered Research:** Leverages **Claude, ChatGPT, Perplexity, DeepSeek, and Kimi** to research, draft, and publish long‑form analytical content in real‑time.
+> **Founder & Editor** — A digital publishing platform that bridges the gap between complex financial markets and general readers using cutting-edge AI.
+- **AI-Powered Research:** Leverages **Claude, ChatGPT, Perplexity, DeepSeek, and Kimi** to research, draft, and publish long-form analytical content in real-time.
 - **Content Focus:** Covers **cryptocurrency regulation, global geopolitics, equity market trends, and technology disruption**.
-- **SEO Strategy:** Built an SEO‑friendly content architecture with optimized titles, meta descriptions, and keyword targeting for organic discoverability.
-- **End‑to‑End Management:** Owns the entire content lifecycle—from real‑time market scanning to editorial workflow and publishing schedule.
+- **SEO Strategy:** Built an SEO-friendly content architecture with optimized titles, meta descriptions, and keyword targeting for organic discoverability.
+- **End-to-End Management:** Owns the entire content lifecycle—from real-time market scanning to editorial workflow and publishing schedule.
 
-### 📈 Financial Market Intelligence Dashboard *(Concept‑to‑Reality Project)*
-> An end‑to‑end analytics pipeline for tracking global financial instruments (Equities, Crypto, Forex, Commodities).
-- **API Integration:** Extracted real‑time market data using **Alpha Vantage & Yahoo Finance APIs** (JSON/XML).
-- **Data Pipeline:** Cleaned and transformed data using **Databricks & PySpark**, applying time‑series aggregation and technical indicator calculations (Moving Averages, RSI, Volume Analysis).
+### 📈 Financial Market Intelligence Dashboard *(Concept-to-Reality Project)*
+> An end-to-end analytics pipeline for tracking global financial instruments (Equities, Crypto, Forex, Commodities).
+- **API Integration:** Extracted real-time market data using **Alpha Vantage & Yahoo Finance APIs** (JSON/XML).
+- **Data Pipeline:** Cleaned and transformed data using **Databricks & PySpark**, applying time-series aggregation and technical indicator calculations (Moving Averages, RSI, Volume Analysis).
 - **Visualization:** Built interactive executive dashboards in **Power BI and Tableau** for trend spotting and volatility tracking.
 - *Note: This represents my core financial data engineering expertise applied to market intelligence.*
 
 ### 🎮 [FreeToGame API Data Pipeline](https://github.com/Ajitjha3095/FreeToGame-API-Data-Pipeline)
-> End‑to‑end ETL using Databricks & PySpark to extract, clean, and store game data, with dashboards in Power BI, Tableau, and Looker Studio.
+> End-to-end ETL using Databricks & PySpark to extract, clean, and store game data, with dashboards in Power BI, Tableau, and Looker Studio.
 
 ### 🍫 [Global Chocolate Sales Dashboard](https://github.com/Ajitjha3095/Global-Chocolate-Sales-Data-Analysis-Dashboard)
 > Interactive Power BI dashboard analyzing global sales performance, customer behavior, and geographic trends.
 
 ### 🎬 [TMDB Data Pipeline](https://github.com/Ajitjha3095/TMDB-Data-Pipeline)
-> End‑to‑end data pipeline using TMDB API, Databricks Medallion Architecture, and Power BI.
+> End-to-end data pipeline using TMDB API, Databricks Medallion Architecture, and Power BI.
 
 ### 🦄 [Unicorn Companies Power BI Dashboard](https://github.com/Ajitjha3095/Unicorn-Companies-Power-BI-Dashboard)
 > Tracks the global landscape of startups valued at $1B+, covering valuation trends and sector distribution.
@@ -140,7 +140,7 @@ Senior Data Research Analyst with **8+ years** of experience transforming raw, u
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ajitjha3095&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajitjha3095&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ajitjha3095&theme=radical&row=1&column=4" alt="GitHub Trophies" width="48%" />
 </p>
 
 <p align="center">
