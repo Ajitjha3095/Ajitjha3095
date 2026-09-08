@@ -136,17 +136,6 @@ Senior Data Research Analyst with **8+ years** of experience transforming raw, u
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajitjha3095&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Ajitjha3095&theme=radical&row=1&column=4" alt="GitHub Trophies" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajitjha3095&layout=compact&theme=radical" alt="Top Languages" width="40%" />
-</p>
-
 ---
 
 ## 🤝 Let's Connect
